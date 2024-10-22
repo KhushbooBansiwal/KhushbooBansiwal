@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Khushboo!
 
-<!--
-**KhushbooBansiwal/KhushbooBansiwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👩‍💻 Frontend Developer sharing my tech journey to create engaging, interactive web experiences.
+    I’m learning more about React Native for mobile app development.
+    I love experimenting with modern web technologies and UI/UX trends.
+    Open to opportunities as a Frontend Developer with a focus on startups or growth-stage companies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    ## 🚀Tech Stack
+    Frontend: React, JavaScript (ES6+), HTML5, CSS3, SASS, Bootstrap, Tailwind CSS
+    Version Control: Git, GitHub
+    Deployment: Vercel, Netlify
+
+   ![Khushboo GitHub stats](https://github-readme-stats.vercel.app/api?username=KhushbooBansiwal&show_icons=true&theme=radical)
