@@ -6,7 +6,7 @@
     I love experimenting with modern web technologies and UI/UX trends.
     Open to opportunities as a Frontend Developer with a focus on startups or growth-stage companies.
 
-    ## 🚀Tech Stack
+   ## 🚀Tech Stack
     Frontend: React, JavaScript (ES6+), HTML5, CSS3, SASS, Bootstrap, Tailwind CSS
     Version Control: Git, GitHub
     Deployment: Vercel, Netlify
