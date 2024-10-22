@@ -1,4 +1,4 @@
-![](https://github-readme-stats.vercel.app/api?username=YourUsername&theme=radical)
+
 ## Hi, I'm Khushboo!
 ### Frontend Developer
 <p> Sharing my tech journey to create engaging, interactive web experiences.<br>     - I’m learning more about React Native for mobile app development.<br>    - I love experimenting with modern web technologies and UI/UX trends.<br>    -  Open to opportunities as a Frontend Developer with a focus on startups or growth-stage companies.
